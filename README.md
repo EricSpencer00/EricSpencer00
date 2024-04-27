@@ -8,5 +8,5 @@ I'm Eric, a CS major at LUC. I like building software.
 - 📫 How to reach me: ericspencer1450@gmail.com
 
 You can check out my portfolio website here:
-## https://EricSpencer.github.io
+## https://EricSpencer00.github.io
 
