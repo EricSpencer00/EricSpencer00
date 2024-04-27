@@ -7,5 +7,6 @@ I'm Eric, a CS major at LUC. I like building software.
 - 🌱 I’m currently learning Swift and App development
 - 📫 How to reach me: ericspencer1450@gmail.com
 
-## https://EricSpencer.github.io <-- My personal website
+You can check out my portfolio website here:
+## https://EricSpencer.github.io
 
