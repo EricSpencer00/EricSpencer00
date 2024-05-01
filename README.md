@@ -10,8 +10,7 @@ I'm Eric, a CS major at LUC. I like building software.
 - 🌱 I’m currently learning Swift and App development
 - 📫 How to reach me: ericspencer1450@gmail.com
 
-<img src="public/icons/spotify/spotify.svg" width="32px">
-<a href="https://linkedin.com/in/ericspencer00" style="text-decoration: none;"><i class="fa fa-linkedin fa-2x" style="color: #0077B5;"></i> My Linkedin</a>
+[![LinkedIn](linkedin.svg)](https://linkedin.com/in/ericspencer00)
 
 You can check out my portfolio website [here](https://EricSpencer00.github.io).
 
