@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"/>
+<link rel="stylesheet" href="styles.css">
 
 ### Hi there 👋
 
@@ -9,11 +10,9 @@ I'm Eric, a CS major at LUC. I like building software.
 - 🌱 I’m currently learning Swift and App development
 - 📫 How to reach me: ericspencer1450@gmail.com
 
-<a href="https://linkedin.com/in/ericspencer00" class="fa fa-linkedin" target="_blank"></a>
-<a href=""></a>
+<img src="public/icons/spotify/spotify.svg" width="32px">
+<a href="https://linkedin.com/in/ericspencer00" style="text-decoration: none;"><i class="fa fa-linkedin fa-2x" style="color: #0077B5;"></i> My Linkedin</a>
 
+You can check out my portfolio website [here](https://EricSpencer00.github.io).
 
-
-You can check out my portfolio website here:
-## https://EricSpencer00.github.io
 
