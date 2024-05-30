@@ -2,9 +2,9 @@
 
 I'm Eric, a CS major at LUC.
 
-- 🔭 I’m currently working on Dexcom-Statistics and my website
+- 🔭 I’m currently working on DexVal, DailyTask, and my website
 - 🤔 I’m looking for help with my Dexcom project
-- 🌱 I’m currently learning Python, Flask, web development
+- 🌱 I’m currently learning Python, Flask, and App Development (Swift)
 - 📫 How to reach me: ericspencer1450@gmail.com
 
 [<img src="linkedin.svg" alt="LinkedIn" width="32px">](https://linkedin.com/in/ericspencer00)
