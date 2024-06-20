@@ -11,8 +11,6 @@ I'm Eric, a CS major at LUC.
 [<img src="gmail.svg" alt="GMail" width="32px">](mailto:ericspencer1450@gmail.com)
 [<img src="cv_icon.png" alt="CV" width="32px">](https://ericspencer00.github.io/Images/EricSpencerResume.pdf)
 
-* If you're wondering where all my contributions have been for June 2024 they've been for my DailyTask app (private repo)
-
 You can check out my portfolio website [here](https://EricSpencer00.github.io).
 
 
