@@ -3,7 +3,7 @@
 I'm Eric, a CS major at LUC.
 
 - 🔭 I’m currently working on DexVal, DailyTask, and my website
-- 🤔 I’m looking for help with my Dexcom project
+- 🤔 I’m looking for help with my DexVal project
 - 🌱 I’m currently learning Python, Flask, and App Development (Swift)
 
 [<img src="linkedin.png" alt="LinkedIn" width=100px>](https://linkedin.com/in/ericspencer00)<br>
