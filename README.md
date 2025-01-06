@@ -2,9 +2,9 @@
 
 I'm Eric, a CS major at LUC.
 
-- 🔭 I’m currently working on my website and Projects for School
-- 🤔 I’m looking for help with my DexVal project
-- 🌱 I’m currently learning Python and Mobile Development with React Native
+- 🔭 I’m currently enjoying break and learning new Hosting technology
+- 🤔 I’m looking for help with anything you find interesting
+- 🌱 I’m currently learning Visual Detection Models
 
 [<img src="linkedin.png" alt="LinkedIn" width=100px>](https://linkedin.com/in/ericspencer00)<br>
 [<img src="gmail.jpeg" alt="GMail" width="100px">](mailto:ericspencer1450@gmail.com)<br>
