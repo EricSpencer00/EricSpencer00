@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric, a CS major at LUC.
+I'm Eric, a CS major at Loyola University Chicago
 
 - 🔭 I’m currently enjoying break and learning new Hosting technology
 - 🤔 I’m looking for help with anything you find interesting on my GitHub
