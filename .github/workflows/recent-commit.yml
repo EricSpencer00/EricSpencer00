@@ -25,7 +25,7 @@ jobs:
           echo "Found repository: $REPO"
           
           echo "Fetching latest commit..."
-          SHA=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/ericspencer00/$REPO/commits?per_page=1" | jq -r '.[0].sha')
+          SHA=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/ericspencer00/$REPO/commits?author=EricSpencer00?per_page=1" | jq -r '.[0].sha')
           echo "Found commit: $SHA"
 
           echo "repo=$REPO" >> $GITHUB_OUTPUT
