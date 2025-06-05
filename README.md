@@ -2,9 +2,9 @@
 
 I'm Eric, a Computer Science major at Loyola University Chicago
 
-- 🔭 I’m interning for the summer and my contribution page will reflect that
+- 🔭 I'm interning for the summer and my contribution page will reflect that
 - 🤔 Take a look at my repos and see if you find anything interesting
-- 🌱 I’m currently learning SaaS Apps, TLA+, and Fullstack methods
+- 🌱 I'm currently learning SaaS Apps, TLA+, and Fullstack methods
 - 🏋️‍♂️ I'm rated 1600 in Chess and can bench 225
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
@@ -21,4 +21,4 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Most Recent Commit](https://img.shields.io/endpoint?url=https:/github.com/EricSpencer00/EricSpencer00/recent_commit.json)
+![Most Recent Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json)
