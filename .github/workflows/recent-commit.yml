@@ -5,12 +5,17 @@ on:
     - cron: "*/30 * * * *"  # Every 30 mins
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get most recent commit
         id: commit
