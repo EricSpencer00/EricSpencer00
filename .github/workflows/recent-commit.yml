@@ -1,0 +1,51 @@
+name: Update Recent Commit Badge
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Every 30 mins
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v3
+
+      - name: Set up GitHub CLI
+        uses: cli/cli-action@v2
+        with:
+          version: latest
+
+      - name: Get most recently updated repo + latest commit
+        id: commit
+        run: |
+          echo "Fetching most recent repository..."
+          REPO=$(gh repo list ericspencer00 --limit 1 --sort pushed --json name --jq '.[0].name')
+          if [ -z "$REPO" ]; then
+            echo "Error: No repositories found"
+            exit 1
+          fi
+          echo "Found repository: $REPO"
+          
+          echo "Fetching latest commit..."
+          SHA=$(gh api repos/ericspencer00/$REPO/commits --jq '.[0].sha' | cut -c1-7)
+          if [ -z "$SHA" ]; then
+            echo "Error: No commits found"
+            exit 1
+          fi
+          echo "Found commit: $SHA"
+
+          echo "repo=$REPO" >> $GITHUB_OUTPUT
+          echo "sha=$SHA" >> $GITHUB_OUTPUT
+
+      - name: Write commit info to JSON
+        run: |
+          echo '{ "schemaVersion": 1, "label": "Most Recent Commit", "message": "'${{ steps.commit.outputs.repo }}/${{ steps.commit.outputs.sha }}", "color": "blue" }' > recent-commit.json
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add recent-commit.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update: recent commit badge" && git push)
