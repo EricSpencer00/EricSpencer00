@@ -20,7 +20,7 @@ jobs:
           echo "Found repository: $REPO"
           
           echo "Fetching latest commit..."
-          SHA=$(curl -s "https://api.github.com/repos/ericspencer00/$REPO/commits?per_page=1" | jq -r '.[0].sha' | cut -c1-7)
+          SHA=$(curl -s "https://api.github.com/repos/ericspencer00/$REPO/commits?per_page=1" | jq -r '.[0].sha')
           echo "Found commit: $SHA"
 
           echo "repo=$REPO" >> $GITHUB_OUTPUT
@@ -28,7 +28,7 @@ jobs:
 
       - name: Write commit info to JSON
         run: |
-          echo '{ "schemaVersion": 1, "label": "Most Recent Commit", "message": "'${{ steps.commit.outputs.repo }}/${{ steps.commit.outputs.sha }}", "color": "blue" }' > recent-commit.json
+          echo '{"schemaVersion":1,"label":"Most Recent Commit","message":"'${{ steps.commit.outputs.repo }}/${{ steps.commit.outputs.sha }}'","color":"blue"}' > recent-commit.json
 
       - name: Commit & Push
         run: |
