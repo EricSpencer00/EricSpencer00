@@ -103,7 +103,9 @@ jobs:
           
           # Update the README badge with the actual commit URL
           BADGE_LINE="[![Latest Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge)](${{ steps.commit.outputs.url }})"
-          sed -i "s|\[!\[Latest Commit\](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json.*\]|$BADGE_LINE|" README.md
+          # Escape special characters in the pattern
+          ESCAPED_PATTERN=$(echo "\[!\[Latest Commit\](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json" | sed 's/[\/&]/\\&/g')
+          sed -i "s|$ESCAPED_PATTERN.*\]|$BADGE_LINE|" README.md
       
       - name: Commit and push if changed
         run: |
