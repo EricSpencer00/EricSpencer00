@@ -103,7 +103,7 @@ jobs:
           
           # Update the README badge with the actual commit URL
           BADGE_LINE="[![Latest Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge)](${{ steps.commit.outputs.url }})"
-          sed -i "s|\[!\[Latest Commit\].*\]|$BADGE_LINE|" README.md
+          sed -i "s|\[!\[Latest Commit\](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json.*\]|$BADGE_LINE|" README.md
       
       - name: Commit and push if changed
         run: |
