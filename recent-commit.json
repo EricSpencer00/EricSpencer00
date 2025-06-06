@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "EricSpencer00 | fix: update README badge link and enhance workflow...",
+  "message": "EricSpencer00 | fix: refactor README badge update to use variable ...",
   "color": "0A66C2",
-  "link": "https://github.com/EricSpencer00/EricSpencer00/commit/29380c5ce1b6a30f4793b65ef29d0bd8adef563e",
+  "link": "https://github.com/EricSpencer00/EricSpencer00/commit/fcce38bcd45776814705d835adb4a0f6b297d978",
   "namedLogo": "github",
   "logoColor": "white",
   "cacheSeconds": 1800
