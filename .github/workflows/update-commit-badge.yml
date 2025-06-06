@@ -31,6 +31,15 @@ jobs:
           import json
           from datetime import datetime, timezone
           import os
+          import re
+          
+          def clean_message(msg):
+              # Remove newlines and extra spaces
+              msg = re.sub(r'\s+', ' ', msg)
+              # Remove special characters that might break the badge
+              msg = re.sub(r'[^\w\s\-.,:;!?()]', '', msg)
+              # Truncate to reasonable length
+              return msg[:50] + ('...' if len(msg) > 50 else '')
           
           # Initialize GitHub client
           g = Github("${{ env.GITHUB_TOKEN }}")
@@ -49,8 +58,8 @@ jobs:
                           latest_date = commit.commit.author.date
                           latest_commit = {
                               "repo": repo.name,
-                              "hash": commit.sha,
-                              "message": commit.commit.message.split('\n')[0],  # First line of commit message
+                              "hash": commit.sha[:7],  # Short hash
+                              "message": clean_message(commit.commit.message),
                               "url": commit.html_url
                           }
               except Exception as e:
