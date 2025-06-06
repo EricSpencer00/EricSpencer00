@@ -20,16 +20,55 @@ jobs:
       - name: Get most recent commit
         id: commit
         run: |
-          echo "Fetching most recent repository..."
-          REPO=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/ericspencer00/repos?sort=updated&per_page=1" | jq -r '.[0].name')
-          echo "Found repository: $REPO"
+          echo "Fetching all repositories for EricSpencer00..."
+          REPOS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/ericspencer00/repos?per_page=100")
           
-          echo "Fetching latest commit..."
-          SHA=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/ericspencer00/$REPO/commits?author=EricSpencer00&?per_page=1" | jq -r '.[0].sha')
-          echo "Found commit: $SHA"
+          LATEST_COMMIT_DATE="1970-01-01T00:00:00Z"
+          LATEST_SHA=""
+          LATEST_REPO=""
 
-          echo "repo=$REPO" >> $GITHUB_OUTPUT
-          echo "sha=$SHA" >> $GITHUB_OUTPUT
+          echo "Iterating through repositories to find the most recent commit..."
+          # Loop through each repository
+          echo "$REPOS" | jq -c '.[]' | while read -r repo;
+          do
+            REPO_NAME=$(echo "$repo" | jq -r '.name')
+            echo "Checking repo: $REPO_NAME"
+
+            # Fetch the latest commit for this repo by author EricSpencer00
+            # Use committer date for a more reliable 'when' the commit was made
+            COMMIT_INFO=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/ericspencer00/$REPO_NAME/commits?author=EricSpencer00&per_page=1")
+
+            # Check if a commit was found
+            if echo "$COMMIT_INFO" | jq -e '.[0]' > /dev/null;
+            then
+              CURRENT_SHA=$(echo "$COMMIT_INFO" | jq -r '.[0].sha')
+              # Use committer date for comparison
+              CURRENT_COMMIT_DATE=$(echo "$COMMIT_INFO" | jq -r '.[0].commit.committer.date')
+
+              # Compare dates
+              if [[ "$CURRENT_COMMIT_DATE" > "$LATEST_COMMIT_DATE" ]];
+              then
+                LATEST_COMMIT_DATE="$CURRENT_COMMIT_DATE"
+                LATEST_SHA="$CURRENT_SHA"
+                LATEST_REPO="$REPO_NAME"
+                echo "Found newer commit ($CURRENT_COMMIT_DATE) in $REPO_NAME: $CURRENT_SHA"
+              fi
+            else
+              echo "No commits found by EricSpencer00 in $REPO_NAME."
+            fi
+          done
+
+          # Output the details of the overall latest commit
+          if [ -n "$LATEST_SHA" ]; then
+            echo "Overall most recent commit: $LATEST_REPO/$LATEST_SHA ($LATEST_COMMIT_DATE)"
+            echo "repo=$LATEST_REPO" >> $GITHUB_OUTPUT
+            echo "sha=$LATEST_SHA" >> $GITHUB_OUTPUT
+          else
+            echo "No commits found by EricSpencer00 across all repositories."
+            # Handle case where no commits are found - maybe set default values or fail
+            echo "repo=none" >> $GITHUB_OUTPUT
+            echo "sha=none" >> $GITHUB_OUTPUT
+          fi
 
       - name: Write commit info to JSON
         run: |
@@ -45,6 +84,10 @@ jobs:
             echo "Changes detected"
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
+
+      - name: Get commit link
+        run: |
+          echo "https://github.com/EricSpencer00/${{ steps.commit.outputs.repo }}/commit/${{ steps.commit.outputs.sha }}" > recent-commit-link.txt
 
       - name: Commit & Push
         if: steps.check.outputs.changed == 'true'
