@@ -24,3 +24,4 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 [![Most Recent Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&cacheSeconds=0&style=for-the-badge)](https://github.com/EricSpencer00/EricSpencer00/commits/main)
 # Test signed commit
 # Test GPG signed commit
+# Test with correct email
