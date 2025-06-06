@@ -51,32 +51,44 @@ jobs:
           # Check all repositories
           for repo in user.get_repos():
               try:
+                  # Get commits for this repository
                   commits = repo.get_commits()
                   if commits.totalCount > 0:
+                      # Get the most recent commit
                       commit = commits[0]
-                      if commit.commit.author.date > latest_date:
-                          latest_date = commit.commit.author.date
+                      commit_date = commit.commit.author.date
+                      
+                      # Update if this is the most recent commit we've seen
+                      if commit_date > latest_date:
+                          latest_date = commit_date
                           latest_commit = {
                               "repo": repo.name,
                               "hash": commit.sha[:7],  # Short hash
                               "message": clean_message(commit.commit.message),
-                              "url": commit.html_url
+                              "url": commit.html_url,
+                              "date": commit_date.isoformat()
                           }
+                          print(f"Found newer commit in {repo.name}: {commit.sha[:7]}")
               except Exception as e:
                   print(f"Error processing {repo.name}: {str(e)}")
                   continue
           
           # Write to environment file
           if latest_commit:
+              print(f"Latest commit found in {latest_commit['repo']}: {latest_commit['hash']}")
               with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
                   f.write(f"repo={latest_commit['repo']}\n")
                   f.write(f"hash={latest_commit['hash']}\n")
                   f.write(f"message={latest_commit['message']}\n")
                   f.write(f"url={latest_commit['url']}\n")
+                  f.write(f"date={latest_commit['date']}\n")
+          else:
+              print("No commits found in any repository")
           EOF
       
-      - name: Update badge
+      - name: Update badge files
         run: |
+          # Update the JSON file
           cat > recent-commit.json << EOF
           {
             "schemaVersion": 1,
@@ -85,13 +97,17 @@ jobs:
             "color": "0A66C2",
             "link": "${{ steps.commit.outputs.url }}",
             "namedLogo": "github",
-            "logoColor": "white"
+            "logoColor": "white",
+            "cacheSeconds": 1800
           }
           EOF
+          
+          # Update the README badge
+          sed -i 's|\[!\[Latest Commit\].*\]|\[!\[Latest Commit\](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json\&style=for-the-badge)\](${{ steps.commit.outputs.url }})|' README.md
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add recent-commit.json
+          git add recent-commit.json README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update commit badge" && git push) 
