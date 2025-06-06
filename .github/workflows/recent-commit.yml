@@ -33,7 +33,7 @@ jobs:
 
       - name: Write commit info to JSON
         run: |
-          echo '{"schemaVersion":1,"label":"Most Recent Commit","message":"'${{ steps.commit.outputs.repo }}/${{ steps.commit.outputs.sha }}'","color":"blue"}' > recent-commit.json
+          echo '{"schemaVersion":1,"label":"Most Recent Commit","message":"'${{ steps.commit.outputs.sha }}'","color":"blue","link":"https://github.com/EricSpencer00/${{ steps.commit.outputs.repo }}/commit/${{ steps.commit.outputs.sha }}"}' > recent-commit.json
 
       - name: Check for changes
         id: check
