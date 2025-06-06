@@ -95,14 +95,13 @@ jobs:
             "label": "Latest Commit",
             "message": "${{ steps.commit.outputs.repo }} | ${{ steps.commit.outputs.message }}",
             "color": "0A66C2",
-            "link": "${{ steps.commit.outputs.url }}",
             "namedLogo": "github",
             "logoColor": "white",
             "cacheSeconds": 1800
           }
           EOF
           
-          # Update the README badge
+          # Update the README badge with the actual commit URL
           BADGE_LINE="[![Latest Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge)](${{ steps.commit.outputs.url }})"
           sed -i "s|\[!\[Latest Commit\].*\]|$BADGE_LINE|" README.md
       
