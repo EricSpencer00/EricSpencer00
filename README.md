@@ -21,4 +21,4 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Most Recent Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&cacheSeconds=0)](https://github.com/EricSpencer00/EricSpencer00/commit/fb8a3fe73cc686606d4b8102b21ca34a671729a4)
+[![Most Recent Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&cacheSeconds=0)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&cacheSeconds=0)
