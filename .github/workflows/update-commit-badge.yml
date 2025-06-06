@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,7 +24,7 @@ jobs:
       - name: Get latest commit across all repos
         id: commit
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           python - <<EOF
           from github import Github
