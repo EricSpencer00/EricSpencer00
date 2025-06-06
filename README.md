@@ -26,3 +26,4 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 # Test GPG signed commit
 # Test with correct email
 # Test verified commit after email fix
+# Test verified commit with correct email set
