@@ -2,7 +2,7 @@ name: Update Commit Badge
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -56,6 +56,12 @@ jobs:
                   if commits.totalCount > 0:
                       # Get the most recent commit
                       commit = commits[0]
+                      
+                      # Only track commits authored by EricSpencer00
+                      if not commit.author or commit.author.login != "EricSpencer00":
+                          print(f"Skipping non-author commit in {repo.name}")
+                          continue
+                          
                       commit_date = commit.commit.author.date
                       
                       # Update if this is the most recent commit we've seen
@@ -101,15 +107,12 @@ jobs:
           }
           EOF
           
-          # Update the README badge with the actual commit URL
-          BADGE_LINE="[![Latest Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge)](${{ steps.commit.outputs.url }})"
-          # Escape special characters in the pattern
-          ESCAPED_PATTERN=$(echo "\[!\[Latest Commit\](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json" | sed 's/[\/&]/\\&/g')
-          sed -i "s|$ESCAPED_PATTERN.*\]|$BADGE_LINE|" README.md
+          # Create a URL file that redirects to the commit
+          echo "${{ steps.commit.outputs.url }}" > commit-url.txt
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add recent-commit.json README.md
+          git add recent-commit.json commit-url.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update commit badge" && git push) 
