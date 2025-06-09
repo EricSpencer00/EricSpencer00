@@ -1,5 +1,7 @@
 ![Eric Spencer](EricSpencer.gif)
 
+### Hi there 👋
+
 I'm Eric, a Computer Science major at Loyola University Chicago
 
 - 🔭 I'm interning for the summer and my contribution page will reflect that

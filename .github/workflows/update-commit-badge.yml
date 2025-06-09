@@ -2,7 +2,7 @@ name: Update Commit Badge
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '0 */4 * * *'  # Runs every 4 hours
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -103,7 +103,7 @@ jobs:
             "color": "0A66C2",
             "namedLogo": "github",
             "logoColor": "white",
-            "cacheSeconds": 1800
+            "cacheSeconds": 14400
           }
           EOF
           
