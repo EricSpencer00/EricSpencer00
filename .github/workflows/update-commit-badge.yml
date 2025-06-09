@@ -94,7 +94,8 @@ jobs:
       
       - name: Update badge files
         run: |
-          # Update the JSON file
+          # Update the JSON file with a timestamp to bust cache
+          TIMESTAMP=$(date +%s)
           cat > recent-commit.json << EOF
           {
             "schemaVersion": 1,
@@ -103,7 +104,8 @@ jobs:
             "color": "0A66C2",
             "namedLogo": "github",
             "logoColor": "white",
-            "cacheSeconds": 14400
+            "cacheSeconds": 0,
+            "timestamp": "$TIMESTAMP"
           }
           EOF
           
