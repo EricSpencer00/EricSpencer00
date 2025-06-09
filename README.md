@@ -1,4 +1,4 @@
-### Hi there 👋
+![Eric Spencer](EricSpencer.gif)
 
 I'm Eric, a Computer Science major at Loyola University Chicago
 
