@@ -104,14 +104,25 @@ jobs:
             "color": "0A66C2",
             "namedLogo": "github",
             "logoColor": "white",
-            "cacheSeconds": 0,
-            "url": "${{ steps.commit.outputs.url }}"
+            "cacheSeconds": 0
           }
           EOF
+          
+          # Update commit-url.txt with the latest commit URL
+          echo "${{ steps.commit.outputs.url }}" > commit-url.txt
+          
+          # Update README.md with the latest commit URL
+          sed -i "s|https://github.com/[^)]*|${{ steps.commit.outputs.url }}|" README.md
+          
+          # Debug output
+          echo "Commit URL: ${{ steps.commit.outputs.url }}"
+          cat recent-commit.json
+          cat commit-url.txt
+          echo "Updated README.md with new commit URL"
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add recent-commit.json
+          git add recent-commit.json commit-url.txt README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update commit badge" && git push) 
