@@ -1,4 +1,4 @@
-![Eric Spencer](EricSpencer.gif)
+![Eric Spencer](EricSpencerBlue.gif)
 
 ### Hi there 👋
 
