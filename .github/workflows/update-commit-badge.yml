@@ -108,12 +108,23 @@ jobs:
           }
           EOF
           
-          # Create a URL file that redirects to the commit
-          echo "${{ steps.commit.outputs.url }}" > commit-url.txt
+          # Create an HTML file that redirects to the commit
+          cat > commit-url.html << EOF
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta http-equiv="refresh" content="0; url=${{ steps.commit.outputs.url }}">
+            <title>Redirecting to commit...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="${{ steps.commit.outputs.url }}">commit</a>...</p>
+          </body>
+          </html>
+          EOF
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add recent-commit.json commit-url.txt
+          git add recent-commit.json commit-url.html
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update commit badge" && git push) 
