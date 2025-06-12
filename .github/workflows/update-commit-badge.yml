@@ -38,7 +38,10 @@ jobs:
               msg = re.sub(r'\s+', ' ', msg)
               # Remove special characters that might break the badge
               msg = re.sub(r'[^\w\s\-.,:;!?()]', '', msg)
-              # Truncate to reasonable length
+              # Truncate to reasonable length and ensure it's not empty
+              msg = msg.strip()
+              if not msg:
+                  msg = "Update"
               return msg[:50] + ('...' if len(msg) > 50 else '')
           
           # Initialize GitHub client
