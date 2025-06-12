@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "EricSpencer00 | Replace commit URL text file with an HTML redirect...",
+  "message": "EricSpencer00 | Ada compliance  URL fix",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
-  "cacheSeconds": 0
+  "cacheSeconds": 0,
+  "url": "https://github.com/EricSpencer00/EricSpencer00/commit/bafdac6c912142ddc450b04585aeb013e9919cdd"
 }
