@@ -21,6 +21,6 @@ I'm Eric, a Computer Science major at Loyola University Chicago
   <img align src="https://github-profile-trophy.vercel.app/?username=ericspencer00&theme=onedark&column=-1&title=-Followers,-Stars,-Issues,-Experience" alt="GitHub Profile Trophies showing achievements in followers, stars, issues, and experience" />
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/EricSpencer00.github.io/commit/c5abeedc42213895e479c461e6af8ecffa735d15)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/youtubeDL/commit/d126f9580c831908a42bf8bd909d012d231f04c6)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/EricSpencer00.github.io/commit/c5abeedc42213895e479c461e6af8ecffa735d15)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/youtubeDL/commit/d126f9580c831908a42bf8bd909d012d231f04c6)
