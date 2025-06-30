@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/connect-4/commit/6821cd3228905e75144e392e937d6d4ee2fb1eb6
+https://github.com/EricSpencer00/connect-4/commit/55ac5be6049e6f2fef7b112f0c57254e4416f6a4
