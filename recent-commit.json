@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "roman-numeral-converter | Add prompt for user input after invalid input and ...",
+  "message": "connect-4 | Add .gitignore and README.md files",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
