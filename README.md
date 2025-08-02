@@ -6,7 +6,7 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 - 🔭 I'm interning for the summer and my contribution page will reflect that
 - 🤔 Take a look at my repos and see if you find anything interesting
-- 🌱 I'm currently Vibe Coding and Learning TLA+
+- 🌱 I'm currently Vibe Coding, Learning TLA+, and Website SEO
 - 🏋️‍♂️ I'm rated 1600 on Chess.com and can bench 225
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
