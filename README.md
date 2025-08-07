@@ -1,4 +1,6 @@
-![Eric Spencer](EricSpencerBlue.gif)
+<a href="https://EricSpencer00.github.io" target="_blank">
+  <img src="EricSpencerBlue.gif" alt="Visit my Website">
+</a>
 
 ### Hi there 👋
 
@@ -6,14 +8,15 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 - 🔭 I'm interning for the summer and my contribution page will reflect that
 - 🤔 Take a look at my repos and see if you find anything interesting
-- 🌱 I'm currently Vibe Coding, Learning TLA+, and Website SEO
-- 🏋️‍♂️ I'm rated 1600 on Chess.com and can bench 225
+- 🌱 I'm currently Vibe Coding, Researching TLA+, and rewriting my website
+- 🏋️‍♂️ I'm rated 1650 on Chess.com and can bench 235
+
+Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
 [![Email me at Gmail](https://img.shields.io/badge/Gmail-ericspencer1450@gmail.com-red?logo=gmail&logoColor=white)](mailto:ericspencer1450@gmail.com)
 [![Email me at Loyola](https://img.shields.io/badge/Email-espencer2@luc.edu-blue?logo=maildotru&logoColor=white)](mailto:espencer2@luc.edu)
 [![View my Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://ericspencer00.github.io/resume/)
-[![Visit my Website](https://img.shields.io/badge/Website-ericspencer00.github.io-0A66C2?logo=githubpages&logoColor=white)](https://EricSpencer00.github.io)
 
 ---
 
