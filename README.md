@@ -13,8 +13,6 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
 
-GitHub Gists: [https://gist.github.com/EricSpencer00](https://gist.github.com/EricSpencer00)
-
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
 [![Email me at Gmail](https://img.shields.io/badge/Gmail-ericspencer1450@gmail.com-red?logo=gmail&logoColor=white)](mailto:ericspencer1450@gmail.com)
 [![Email me at Loyola](https://img.shields.io/badge/Email-espencer2@luc.edu-blue?logo=maildotru&logoColor=white)](mailto:espencer2@luc.edu)
