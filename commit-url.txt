@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/GluCoPilot/commit/94aac7871529daacbc766935c76abcfdee7eefae
+https://github.com/EricSpencer00/ascii-llm-training/commit/a39911b38cf04e4ffd35a0b5e7f91484ba8e2fef
