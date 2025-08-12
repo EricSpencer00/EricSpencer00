@@ -6,7 +6,6 @@
 
 I'm Eric, a Computer Science major at Loyola University Chicago
 
-- 🔭 I'm interning for the summer and my contribution page will reflect that
 - 🤔 Take a look at my repos and see if you find anything interesting
 - 🌱 I'm currently Vibe Coding, Researching TLA+, and rewriting my website
 - 🏋️‍♂️ I'm rated 1650 on Chess.com and can bench 235
