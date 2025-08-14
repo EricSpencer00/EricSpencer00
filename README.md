@@ -19,9 +19,9 @@ Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/DexcomNavBarIcon-macos/commit/4d2e69ccad4499f18e3fb7de2c7e91eafd8b8f72)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/git-key-guardian/commit/42b5cdb31a262f076b54805c8ed69e7721bd2e53)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/DexcomNavBarIcon-macos/commit/4d2e69ccad4499f18e3fb7de2c7e91eafd8b8f72)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/git-key-guardian/commit/42b5cdb31a262f076b54805c8ed69e7721bd2e53)
 
 
 
