@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/TerminalGPT/commit/8ae1c8ea0f12d360c4d7c6499d3b0ce6c3847c3a
+https://github.com/EricSpencer00/scala-hello-world/commit/b0ec3fdb30098fcf2657e7599f2806919b57a0e4
