@@ -19,9 +19,9 @@ Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/GluCoPilot/commit/85d1d158459b6d58122750c421981c0c037856c3)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/GluCoPilot/commit/a2a7a444c816708a67ac9e013c18b659ce37c986)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/GluCoPilot/commit/85d1d158459b6d58122750c421981c0c037856c3)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/GluCoPilot/commit/a2a7a444c816708a67ac9e013c18b659ce37c986)
 
 
 
