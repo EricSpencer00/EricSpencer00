@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "tla-formal-generation | Add new paper link to papers.txt",
+  "message": "git-key-guardian | global script, not repo specific",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",

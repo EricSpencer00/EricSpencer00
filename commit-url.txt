@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/tla-formal-generation/commit/cae1feaf904c8151703f1c42974aa91bd6c065c0
+https://github.com/EricSpencer00/git-key-guardian/commit/47977ea268f956e8280c9bfcd710d279d6e6ef5b
