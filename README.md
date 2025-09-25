@@ -7,8 +7,9 @@
 I'm Eric, a Computer Science major at Loyola University Chicago
 
 - 🤔 Take a look at my repos and see if you find anything interesting
-- 🌱 I'm currently Vibe Coding, Researching TLA+, and rewriting my website
+- 🌱 I'm currently Vibe Coding, Researching TLA+, and building iOS apps
 - 🏋️‍♂️ I'm rated 1650 on Chess.com and can bench 235
+- ✍️ Anytime I have downtime from projects I spend adding to my website
 
 Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
 
