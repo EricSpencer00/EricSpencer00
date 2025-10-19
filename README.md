@@ -9,9 +9,7 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 - 🤔 Take a look at my repos and see if you find anything interesting
 - 🌱 I'm currently Vibe Coding, Researching TLA+, and building iOS apps
 - 🏋️‍♂️ I'm rated 1650 on Chess.com and can bench 235
-- ✍️ Anytime I have downtime from projects I spend adding to my website
-
-Take a look at my Website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
+- ✍️ Anytime I have downtime from projects I spend adding to my website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
 [![Email me at Gmail](https://img.shields.io/badge/Gmail-ericspencer1450@gmail.com-red?logo=gmail&logoColor=white)](mailto:ericspencer1450@gmail.com)
