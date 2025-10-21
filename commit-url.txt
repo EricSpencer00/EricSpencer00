@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/c4-fmitf/commit/41ccc707c8050dd6d701f9c048230060df3045e8
+https://github.com/EricSpencer00/itch-parser-eric/commit/a966df4560bb1b0a31a9df36ebeea4b7b5d82ec8
