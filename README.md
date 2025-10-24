@@ -18,9 +18,9 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/itch-parser-eric/commit/a966df4560bb1b0a31a9df36ebeea4b7b5d82ec8)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/ollama-vibecode/commit/8cf9d1fef23950e87aadd7c949cc8628a4c2bbbe)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/itch-parser-eric/commit/a966df4560bb1b0a31a9df36ebeea4b7b5d82ec8)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/ollama-vibecode/commit/8cf9d1fef23950e87aadd7c949cc8628a4c2bbbe)
 
 
 
