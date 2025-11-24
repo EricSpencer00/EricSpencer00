@@ -18,9 +18,9 @@ I'm Eric, a Computer Science major at Loyola University Chicago
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/fb-clone/commit/a8231a5149a66710b547ba3d462c02096e66909a)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/fb-clone/commit/13f9a16790621fd6dfd4223da4ba2b999e8ff6da)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/fb-clone/commit/a8231a5149a66710b547ba3d462c02096e66909a)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/fb-clone/commit/13f9a16790621fd6dfd4223da4ba2b999e8ff6da)
 
 
 
