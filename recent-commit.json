@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "fb-clone | fix: remove api prefix from auth endpoints to avoi...",
+  "message": "fb-clone | fix: remove type field from Pages wrangler.toml",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
