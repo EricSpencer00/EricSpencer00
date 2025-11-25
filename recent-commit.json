@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "fb-clone | fix: remove type field from Pages wrangler.toml",
+  "message": "fb-clone | docs: add instructions to fix Cloudflare Pages dep...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
