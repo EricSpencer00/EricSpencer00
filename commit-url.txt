@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/tla-laptop/commit/c6fbb6c9dfbfe627f2799076f0040c23dd0f3563
+https://github.com/EricSpencer00/goldbach-conj/commit/34a2ef64d6c0ca65944fc3c6369477a415eb169f
