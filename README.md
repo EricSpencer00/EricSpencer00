@@ -1,7 +1,7 @@
 ## Currently building:
 
 
-### [instxnt.xyz](instxnt.xyz) 
+### [instxnt.xyz](https://instxnt.xyz) 
 ### [StockGenie](fromamerica-llc.com/StockGenie) 
 ### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Copilot Credits
 
