@@ -1,20 +1,14 @@
-<a href="https://EricSpencer00.github.io" target="_blank">
-  <img src="EricSpencerBlue.gif" alt="Visit my Website">
-</a>
+## Currently building:
 
-### Hi there 👋
 
-I'm Eric, a Computer Science major at Loyola University Chicago
+### [instxnt.xyz](instxnt.xyz) 
+### [StockGenie](fromamerica-llc.com/StockGenie) 
+### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Copilot Credits
 
-- 🤔 Take a look at my repos and see if you find anything interesting
-- 🌱 I'm currently Vibe Coding, Researching TLA+, and building iOS apps
-- 🏋️‍♂️ I'm rated 1650 on Chess.com and can bench 235
-- ✍️ Anytime I have downtime from projects I spend adding to my website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io)
+---
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericspencer00)
-[![Email me at Gmail](https://img.shields.io/badge/Gmail-ericspencer1450@gmail.com-red?logo=gmail&logoColor=white)](mailto:ericspencer1450@gmail.com)
-[![Email me at Loyola](https://img.shields.io/badge/Email-espencer2@luc.edu-blue?logo=maildotru&logoColor=white)](mailto:espencer2@luc.edu)
-[![View my Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://ericspencer00.github.io/resume/)
+### Checkout my personal website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io), I worked hard on it
+### Check me out on [LinkedIn](https://linkedin.com/in/ericspencer00)
 
 ---
 
