@@ -1,7 +1,7 @@
 ## Currently building:
 
 
-### [instxnt.xyz](https://instxnt.xyz), an E-Commerce site for one-product sites
+### [instxnt.xyz](https://instxnt.xyz), a one-product site E-Commerce generator
 ### [StockGenie](https://fromamerica-llc.com/stockgenie-web/), an NLP-backed stock suggestor for casual investors
 ### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Copilot Credits
 
