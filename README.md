@@ -12,9 +12,9 @@
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/HackIllinois26/commit/89fa1739834957bc815e4d7c2971fd4469c350c4)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/T-square/commit/4b3aa1142e856825df3ac19fbe94b85a430d9b30)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/HackIllinois26/commit/89fa1739834957bc815e4d7c2971fd4469c350c4)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/T-square/commit/4b3aa1142e856825df3ac19fbe94b85a430d9b30)
 
 
 
