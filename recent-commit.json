@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Examples | Add MaxArrivals constant to bound state space for ...",
+  "message": "Examples | Address code review: fix property naming and docum...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
