@@ -12,9 +12,9 @@
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/Examples/commit/623300479e88bcda4f931520277318535098f467)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/Examples/commit/d1b3b554e4bdec6b959f3b0f9db9843d20e4df76)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/Examples/commit/623300479e88bcda4f931520277318535098f467)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/Examples/commit/d1b3b554e4bdec6b959f3b0f9db9843d20e4df76)
 
 
 
