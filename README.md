@@ -7,7 +7,7 @@
 
 ---
 
-### Checkout my personal website: [https://EricSpencer00.github.io](https://EricSpencer00.github.io), I worked hard on it
+### Checkout my personal website: [ericspencer.us](https://ericspencer.us), I worked hard on it
 ### Check me out on [LinkedIn](https://linkedin.com/in/ericspencer00)
 
 ---
