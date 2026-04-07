@@ -12,9 +12,9 @@
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/EricSpencer00.github.io/commit/abd1dea6cbd8b818efe2dc402ad936ca6d23bac4)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericspencer00&theme=github-dark-dimmed&custom_title=EricSpencer00%20Activity%20Graph&hide_border=true)](https://github.com/EricSpencer00/ITS-RAG-bot/commit/b1622ba16c056fc342e0e605c1141cb17dd800eb)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/EricSpencer00.github.io/commit/abd1dea6cbd8b818efe2dc402ad936ca6d23bac4)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/ITS-RAG-bot/commit/b1622ba16c056fc342e0e605c1141cb17dd800eb)
 
 
 
