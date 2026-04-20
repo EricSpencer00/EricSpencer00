@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-216: FFI Callback type  Phase 1 stub with clea...",
+  "message": "Resilient | RES-133a: assume()  parser, AST, and runtime evalu...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
