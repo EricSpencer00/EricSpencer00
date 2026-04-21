@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | Merge pull request 65 from EricSpencer00worktree-a...",
+  "message": "Resilient | RES-371: live block retry NDJSON telemetry and no_...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
