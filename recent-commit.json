@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-392: recovers_to  final-state recovery contrac...",
+  "message": "Resilient | fix: remove duplicate RecoversTo token in lexer_lo...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
