@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | fix: remove duplicate RecoversTo token in lexer_lo...",
+  "message": "Resilient | RES-172: JIT: array operations  push, pop, index l...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
