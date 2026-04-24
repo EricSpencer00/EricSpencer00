@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-354: smt: bit-vector theory for bitwise operat...",
+  "message": "Resilient | fix(ci): integration-follow-main.yml  tolerate mis...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
