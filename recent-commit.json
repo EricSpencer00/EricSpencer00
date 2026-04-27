@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-VM: wire builtins through bytecode compiledisp...",
+  "message": "Resilient | RES-359: live block  retry budget and backoff (303...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
