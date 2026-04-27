@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-398: skip Rust CI on docs-only PRs (paths-igno...",
+  "message": "Resilient | RES-VM: wire builtins through bytecode compiledisp...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
