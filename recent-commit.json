@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | Combined: RES-115 self-host lexer  RES-160 playgro...",
+  "message": "Resilient | RES-421: add array_take(arr, n)  array_drop(arr, n...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
