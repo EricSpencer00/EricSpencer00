@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-405: generic monomorphization design lock-in s...",
+  "message": "Resilient | RES-406: volatile MMIO  unsafe block (impl PRs 1-2...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
