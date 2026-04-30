@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-400: sum types  parser scaffold (PR 1N)  refs ...",
+  "message": "Resilient | RES-405: generic monomorphization design lock-in s...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
