@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-332: actor runtime  mailbox  PID infrastructur...",
+  "message": "Resilient | RES-402: add negative golden test for mixed-elemen...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
