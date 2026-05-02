@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-773: update bug report CLI example (774)",
+  "message": "Resilient | RES-775: inject trycatch runtime failures (776)  R...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
