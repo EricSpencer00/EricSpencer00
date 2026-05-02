@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | vscode: bump to 1.5.1  actors, regions, generics, ...",
+  "message": "Resilient | RES-773: update bug report CLI example (774)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
