@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-888: Add bytes_eq builtin (965) Closes 964. Re...",
+  "message": "Resilient | RES-915: Range patterns in match arms (1019) Close...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
