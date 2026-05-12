@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-1262: fast-reject monotonic_field::check when ...",
+  "message": "Resilient | RES-1334: skip source-file SHA-256  cache::check  ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
