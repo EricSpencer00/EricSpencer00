@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-1334: skip source-file SHA-256  cache::check  ...",
+  "message": "Resilient | RES-1411: lookup_builtin  O(1) HashMap instead of ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
