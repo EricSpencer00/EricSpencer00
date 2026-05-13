@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-1726: pre-size match-pattern binding-types Vec...",
+  "message": "Resilient | RES-1830: pre-size VM run_direct locals Vec (1831)...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
