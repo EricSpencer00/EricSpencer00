@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | feat: MCP server, TLA bridge, macro lowering, refi...",
+  "message": "Resilient | RES-audit: Lint L0051L0095, MCP tools, bridge adap...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
