@@ -4,7 +4,7 @@
 ### [instxnt.xyz](https://instxnt.xyz), a one-product site E-Commerce generator
 ### [StockGenie](https://stockgenie.app), an NLP-backed stock suggestor for casual investors
 ### [Picaius](https://picai.us), a photo editor I made when I got mad at all the existing options
-### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Copilot Credits
+### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Claude Credits
 ### [Resilient](https://ericspencer.us/Resilient/), a runtime self-healing programming language
 ### and a ton of others that exist at [ericspencer.us/projects/](https://ericspencer.us/projects/)
 
