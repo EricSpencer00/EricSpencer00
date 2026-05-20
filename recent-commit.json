@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2178: anti_regression drop redundant StableSpe...",
+  "message": "Resilient | RES-2308: idempotent_handler  drop redundant has_i...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
