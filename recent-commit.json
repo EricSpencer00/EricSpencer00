@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2436: gate mutation_testing and behavioral_fin...",
+  "message": "Resilient | RES-cleanup: clear stale file claims from merged P...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
