@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "audio-tabula-rasa | RLAIF training overhaul: corpus reward, theory swe...",
+  "message": "Resilient | RES-2512: fix collect_free_vars missing TryCatch, ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
