@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2534: sync handler-table dispatch with match-d...",
+  "message": "Resilient | RES-2542: compile impl method calls in VM bytecode...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
