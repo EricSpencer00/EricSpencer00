@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2622: did-you-mean hints for struct field typo...",
+  "message": "Resilient | RES-2670: sweep stale claims locally on every new ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
