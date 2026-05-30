@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2672: rebase sync-integration.sh against main ...",
+  "message": "Resilient | RES-2691: float literals assignable to f32-annotat...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
