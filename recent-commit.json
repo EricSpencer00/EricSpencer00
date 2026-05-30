@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2670: sweep stale claims locally on every new ...",
+  "message": "Resilient | RES-2672: rebase sync-integration.sh against main ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
