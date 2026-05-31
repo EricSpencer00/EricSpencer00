@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2585: regular expression matching builtins (27...",
+  "message": "Resilient | RES-2807: Float32 type gaps  panic elimination in ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
