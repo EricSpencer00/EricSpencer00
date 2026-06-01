@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2816: fix false-positive type errors for strin...",
+  "message": "Resilient | RES-2825: semantic non-interference via self-compo...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
