@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2825: semantic non-interference via self-compo...",
+  "message": "Resilient | RES-2831: reject indexing of non-indexable types a...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
