@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2831: reject indexing of non-indexable types a...",
+  "message": "Resilient | RES-2541: Re-export support: pub use (2836)  res-2...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
