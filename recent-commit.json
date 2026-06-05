@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2584: String builder: efficient mutable string...",
+  "message": "Resilient | RES-2652: LSP rename: cross-file on-disk workspace...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
