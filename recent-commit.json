@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-2566: LSP: workspace-wide go-to-definition acr...",
+  "message": "Resilient | RES-2642: add variance subtype helpers (2892)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
