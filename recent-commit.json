@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3219: use rz and resilient filetype in LSP doc...",
+  "message": "Resilient | RES-3377: clarify syntax boundary docs (3378)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
