@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3482: harden agent PR vetting workflow (3600)",
+  "message": "Resilient | RES-3490: align param destructuring errors (3611)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
