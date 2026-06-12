@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | res-3408: claim ticket  RES-3156: derives check sh...",
+  "message": "Resilient | res-3423: claim ticket  RES-3171: mutex_rwlock che...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
