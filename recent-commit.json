@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3472: target_profiles check should validate ta...",
+  "message": "Resilient | RES-3452: typestate_types check should validate ty...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
