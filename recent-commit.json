@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3452: typestate_types check should validate ty...",
+  "message": "Resilient | RES-3482: harden agent PR vetting workflow (3600)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
