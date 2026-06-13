@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3386: make --emit-diagnostics-json consume epr...",
+  "message": "Resilient | RES-3231: validate format_builtin call-site argume...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
