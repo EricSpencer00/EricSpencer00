@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3229: Add malformed-input regression corpus fo...",
+  "message": "Resilient | RES-3134: Route warning-producing check passes to ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
