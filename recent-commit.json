@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | Plan: MCP server deployment to Railway  VPS (RES-3...",
+  "message": "Resilient | cargo update: sync dependencies to latest compatib...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
