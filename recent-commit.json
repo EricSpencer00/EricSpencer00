@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3159: Add regression corpus tests for derives ...",
+  "message": "Resilient | agent-guardrails: Make diff-shape violations advis...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
