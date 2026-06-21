@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "stem-player | Restore Stemacle landing page life",
+  "message": "stem-player | Fix iOS audio engine formats",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
