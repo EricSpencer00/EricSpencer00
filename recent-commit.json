@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "stem-player | Prepare Stemacle 0.2.0 desktop release",
+  "message": "Resilient | RES-3174: Add malformed-input regression corpus fo...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
