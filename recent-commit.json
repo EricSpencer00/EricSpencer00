@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3770: Fix const_eval_ext test assertions - acc...",
+  "message": "Resilient | RES-3815: Add regression corpus for uniqueness_wal...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
