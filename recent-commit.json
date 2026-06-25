@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3828: typecheck live invariants (3829)",
+  "message": "Resilient | RES-3780: require contracts for AI-generated funct...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
