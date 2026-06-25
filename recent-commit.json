@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "stem-player | Remove iOS, macOS, and Electron native code  web a...",
+  "message": "Resilient | RES-3828: typecheck live invariants (3829)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
