@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "stem-player | Fix native audio spike  loop bugs; add loop-state ...",
+  "message": "stem-player | Merge: HT-Demucs 4-stem on-device separation",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
