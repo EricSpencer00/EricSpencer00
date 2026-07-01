@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3835: Add generated(intent, prompt_hash) prove...",
+  "message": "stem-player | Fix native audio spike  loop bugs; add loop-state ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
