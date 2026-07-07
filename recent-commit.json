@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "arxiv-report | fix: support bounded date ranges in ingest state f...",
+  "message": "Resilient | RES-3193: Add regression corpus tests for session_...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
