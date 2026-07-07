@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3193: Add regression corpus tests for session_...",
+  "message": "Resilient | RES-3199: Add regression corpus tests for mmio_reg...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
