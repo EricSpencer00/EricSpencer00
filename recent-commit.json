@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3818: Add regression corpus for deadlock_freed...",
+  "message": "Resilient | RES-3860: Reject unaligned MMIO base addresses at ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
