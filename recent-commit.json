@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3860: Reject unaligned MMIO base addresses at ...",
+  "message": "Resilient | RES-3862: defer heavy CI on draft PRs to cut Actio...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
