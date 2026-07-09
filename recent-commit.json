@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3862: defer heavy CI on draft PRs to cut Actio...",
+  "message": "Resilient | RES-3862: autonomous draft-PR sweeper (promoteland...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
