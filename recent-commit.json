@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | docs: fix two stale claims in MISSING_FEATURES.md ...",
+  "message": "Resilient | fix: remove redundant reference in dap_server epri...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
