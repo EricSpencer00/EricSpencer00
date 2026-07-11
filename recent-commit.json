@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "hardtekk-generator | Sample-only engine: stop pitching the kick, remove...",
+  "message": "hardtekk-generator | Remove the songs own drums (refined two-pass HPSS)...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
