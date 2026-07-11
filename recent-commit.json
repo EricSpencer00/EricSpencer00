@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "hardtekk-generator | Remove the songs own drums (refined two-pass HPSS)...",
+  "message": "hardtekk-generator | Add listen.py: render report-card as an objective ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
