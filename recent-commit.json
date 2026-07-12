@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "hardtekk-generator | Add listen.py: render report-card as an objective ...",
+  "message": "Resilient | RES-3887: point unreachable-code diagnostic at the...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
