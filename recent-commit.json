@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3996: VM lowers assume(cond) to a real runtime...",
+  "message": "Resilient | RES-4039: jit fuzz target in CI  Z3-translation fu...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
