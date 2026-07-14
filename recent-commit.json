@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3993: VM ?? null-coalescing operator (4057)",
+  "message": "Resilient | RES-3933: mark soundness tail complete in Phase-2 ...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
