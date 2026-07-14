@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3994: fix VM CallMethodAddstruct-update runtim...",
+  "message": "Resilient | RES-3996: VM lowers assume(cond) to a real runtime...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
