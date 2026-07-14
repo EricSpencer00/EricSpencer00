@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3394: reject duplicate atomic registrations; t...",
+  "message": "Resilient | RES-3931: JSON-aware merge for file-claims.json in...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
