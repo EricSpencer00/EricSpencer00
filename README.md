@@ -22,7 +22,7 @@
 
 ---
 
-[![AI agent usage](https://usage-badge.stockgenie.workers.dev/badge.svg)](https://github.com/EricSpencer00/DexcomNavBarIcon-macos/commit/4f2b3cffe52e80f72fed05a8cc48aae4eea5f222)
+[![AI agent usage](https://usage-badge.stockgenie.workers.dev/badge.svg)](https://github.com/EricSpencer00/usage-badge)
 
 [![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=EricSpencer00)](https://gitcity.natrajx.in/EricSpencer00)
 

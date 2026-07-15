@@ -114,8 +114,10 @@ jobs:
           # Update commit-url.txt with the latest commit URL
           echo "${{ steps.commit.outputs.url }}" > commit-url.txt
           
-          # Update README.md with the latest commit URL
-          sed -i "s|https://github.com/[^)]*|${{ steps.commit.outputs.url }}|" README.md
+          # Update README.md with the latest commit URL.
+          # Only rewrite existing commit links (…/<owner>/<repo>/commit/<hash>) so
+          # other github.com links (project badges, etc.) are never clobbered.
+          sed -i -E "s#https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+/commit/[0-9a-f]+#${{ steps.commit.outputs.url }}#g" README.md
           
           # Debug output
           echo "Commit URL: ${{ steps.commit.outputs.url }}"
