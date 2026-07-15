@@ -22,11 +22,11 @@
 
 ---
 
-[![AI agent usage](https://usage-badge.stockgenie.workers.dev/badge.svg)](https://github.com/EricSpencer00/EricSpencer00/commit/c9378eb90ddf9c385291c4927949f6e012d3d66a)
+[![AI agent usage](https://usage-badge.stockgenie.workers.dev/badge.svg)](https://github.com/EricSpencer00/Resilient/commit/895bbb8eb7340d7619a0479764c13f6610794e28)
 
 [![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=EricSpencer00)](https://gitcity.natrajx.in/EricSpencer00)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/EricSpencer00/commit/c9378eb90ddf9c385291c4927949f6e012d3d66a)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/Resilient/commit/895bbb8eb7340d7619a0479764c13f6610794e28)
 
 
 
