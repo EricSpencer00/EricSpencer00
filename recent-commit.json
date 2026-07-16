@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-3985: static Z3 on macOS  aarch64-linux releas...",
+  "message": "Resilient | RES-4102: macOS release leg drops Z3  idempotent v...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
