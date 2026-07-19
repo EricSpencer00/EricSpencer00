@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4113: static Z3 on x86_64-apple-darwin release...",
+  "message": "Resilient | RES-4095: flow-sensitive dyn Trait coercion checki...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
