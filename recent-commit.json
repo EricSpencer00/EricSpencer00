@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4134: native JIT lowering for array builtins (...",
+  "message": "Resilient | RES-3947: multi-stage Docker strip  RES-3946 bundl...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
