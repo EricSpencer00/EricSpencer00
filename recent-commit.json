@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "tof-audit | Solve overhead as a free unknown like GPS clock bi...",
+  "message": "tof-audit | Base the mismatch verdict on falsification, not di...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
