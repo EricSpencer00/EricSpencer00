@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "tla-prover | Merge pull request 5 from LUC-AI4FMfixstrip-fairne...",
+  "message": "tla-prover | Split third-party notices out of LICENSE so the MI...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
