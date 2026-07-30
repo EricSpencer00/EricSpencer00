@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "tla-microwave | fix: state graph row labels no longer clip off the...",
+  "message": "tla-microwave | fix: shrink self-loop so it stops reading as a str...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
