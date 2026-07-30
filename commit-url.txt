@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/tla-microwave/commit/a20a66e2493f53f9e4dd59f54b78bca9762d392f
+https://github.com/EricSpencer00/tla-prover/commit/2cf27b627332fccb5a1d8276dda34452f087a687
