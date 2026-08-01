@@ -1,11 +1,10 @@
-## Currently building:
+## Currently:
 
-
-### [instxnt.xyz](https://instxnt.xyz), a one-product site E-Commerce generator
-### [StockGenie](https://stockgenie.app), an NLP-backed stock suggestor for casual investors
+### MTS @ [HorneSci](hornesci.github.io) 
 ### [Stemacle](https://stemacle.com), an exploration into splitting stems
-### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Claude Credits
+### [StockGenie](https://stockgenie.app), an NLP-backed stock suggestor for casual investors
 ### [Resilient](https://ericspencer.us/Resilient/), a runtime self-healing programming language
+### some one off projects like [T-Tetracube 6x6 Solver](https://ericspencer00.github.io/cubed-pack-solve) when I have extra Claude Credits
 ### and a ton of others that exist at [ericspencer.us/projects/](https://ericspencer.us/projects/)
 
 ---
