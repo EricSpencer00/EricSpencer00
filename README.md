@@ -25,7 +25,7 @@
 
 [![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=EricSpencer00)](https://gitcity.natrajx.in/EricSpencer00)
 
-[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/tla-prover/commit/48bde8d3801e30b70a378e8cf2c4019e7a9a0d7e)
+[![Latest GitHub Commit](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EricSpencer00/EricSpencer00/main/recent-commit.json&style=for-the-badge&cacheSeconds=0)](https://github.com/EricSpencer00/Resilient/commit/842ac7f08dbfe71bdd11e7fce82af744c5c29400)
 
 
 
