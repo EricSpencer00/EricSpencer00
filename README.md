@@ -1,6 +1,6 @@
 ## Currently:
 
-### MTS @ [HorneSci](hornesci.github.io) 
+### MTS @ [HorneSci](https://hornesci.github.io) 
 ### [Stemacle](https://stemacle.com), an exploration into splitting stems
 ### [StockGenie](https://stockgenie.app), an NLP-backed stock suggestor for casual investors
 ### [Resilient](https://ericspencer.us/Resilient/), a runtime self-healing programming language
