@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "resume | Name variants by date, not by target company Co-Au...",
+  "message": "tlaplus_jupyter | Fix do_execute signature and a SyntaxWarning; revi...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
