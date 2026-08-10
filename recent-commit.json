@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "ripcord | Converge the makeup search with a secant step Real...",
+  "message": "ripcord | Stop the integration suites timing out on CI The n...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
