@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/palindrome-sentence-generator/commit/67b89c75caa475df97324c0fe1912668a87ae1f9
+https://github.com/EricSpencer00/palindrome-sentence-generator/commit/0e8e7f04c2ac7aa40faf881ac94062164125c25a
