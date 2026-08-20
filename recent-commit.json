@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "ascii-llm-training | verify: derive blank baseline from rendered raster...",
+  "message": "ascii-llm-training | results: document the metric bug, the corrected be...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
