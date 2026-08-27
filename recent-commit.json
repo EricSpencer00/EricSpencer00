@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "dxmt | Keep the GDI paths out of the native build The nat...",
+  "message": "dxmt | Let the window under the presentation child receiv...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
