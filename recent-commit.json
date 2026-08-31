@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "tutor | Replace AI-generated articles with a curated human...",
+  "message": "tutor | Verify every library link resolves to the real doc...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
