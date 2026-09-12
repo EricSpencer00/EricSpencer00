@@ -9,7 +9,7 @@
 
 ### Palindrome Paragraphs: [palindrome.ericspencer.us](https://palindrome.ericspencer.us)
 ### TLA+ Ralph Loop Generator: [tla.ericspencer.us](https://tla.ericspencer.us)
-### and a ton of others that exist at [ericspencer.us/projects/](https://ericspencer.us/projects/)
+### and a ton of others that exist at [ericspencer.us](https://ericspencer.us)
 
 ---
 
