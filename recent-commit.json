@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "aeo-extension | fix: point extension homepage at working clean URL",
+  "message": "css-llm | Convert HF instruct model into CSS runtime",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
