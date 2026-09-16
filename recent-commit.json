@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "css-llm | Simplify CSS model entry flow",
+  "message": "aeo-extension | fix: point extension homepage at working clean URL",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
