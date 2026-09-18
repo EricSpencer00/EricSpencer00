@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4070: track nested array aliases (4363)",
+  "message": "Resilient | RES-4070: compose structured return provenance (43...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
