@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4067: resolve generic associated returns (4340...",
+  "message": "Resilient | RES-3930: parse refines annotations (4353)",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
