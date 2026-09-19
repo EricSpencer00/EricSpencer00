@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4070: preserve struct destructure paths (4401)",
+  "message": "Resilient | RES-4070: preserve tagged enum slice identity (441...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
