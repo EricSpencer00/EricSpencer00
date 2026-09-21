@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4837: validate format calls through structured...",
+  "message": "Resilient | RES-4546: enforce transitive no-panic certificatio...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
