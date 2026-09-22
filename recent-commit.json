@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4546: enforce transitive no-panic certificatio...",
+  "message": "Resilient | RES-4730: remove cumulative staging vectors (4733)...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
