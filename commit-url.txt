@@ -1,1 +1,1 @@
-https://github.com/EricSpencer00/Resilient/commit/53a9f198013655e6ad9372f8aaf463d22ee6c032
+https://github.com/EricSpencer00/palindrome-sentence-generator/commit/28c93e09b293da613231e2155d3a13bb48d12919
