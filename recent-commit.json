@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "earthcraft | Model-check the cache and deploy with TLA; fix the...",
+  "message": "earthcraft | Keep the monitors own runs out of its CI health ch...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
