@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "photoscan | Prepare for publishing: no local paths, complete d...",
+  "message": "earthcraft | Hub reader: ask the revision API for the commit on...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
