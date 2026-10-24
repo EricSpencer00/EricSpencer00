@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4953: compare reviewed serialized source check...",
+  "message": "Resilient | RES-5037: integrate guard-order repair with curren...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
