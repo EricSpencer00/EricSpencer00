@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-4906: bind qualification dossier to retained 1...",
+  "message": "Resilient | RES-4953: compare reviewed serialized source check...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
