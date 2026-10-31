@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "Resilient | RES-5119: independently check requirements and gen...",
+  "message": "Resilient | RES-5167: preserve match call targets and enclosin...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
