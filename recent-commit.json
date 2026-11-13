@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Latest Commit",
-  "message": "earthcraft | Map: daily-cached bitmaps, canvas cells, queued ri...",
+  "message": "earthcraft | NAIP keeps working when USGS is down; 6x faster la...",
   "color": "0A66C2",
   "namedLogo": "github",
   "logoColor": "white",
