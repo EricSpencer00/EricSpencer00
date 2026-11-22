@@ -1,7 +1,7 @@
 ## Currently:
 
 ### Formal Methods Researcher @ [LUC AI4FM](https://ai4fm.cs.luc.edu)
-### MTS @ [HorneSci](https://hornesci.github.io)
+### MTS @ [HorneSci](https://hornesci.com)
 
 ---
 
